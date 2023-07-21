@@ -1,1 +1,3 @@
-# Git
+# sistema para clinica de estetica e spa
+# o sistema de tem que ser adaptavel ao tipo de negocio da clinica
+...
